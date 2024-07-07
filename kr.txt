@@ -1,2 +1,4 @@
 KOREA,#genre#
 kbs1,http://mytv.dothome.co.kr/ch/public/1.php
+综合,#genre#
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
